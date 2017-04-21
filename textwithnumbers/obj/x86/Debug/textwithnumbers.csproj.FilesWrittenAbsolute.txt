@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/textwithnumbers/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/textwithnumbers/bin/Debug/textwithnumbers.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/textwithnumbers/bin/Debug/textwithnumbers.exe
+/home/plamenpc/Downloads/hempforgosho/textwithnumbers/obj/x86/Debug/textwithnumbers.exe
+/home/plamenpc/Downloads/hempforgosho/textwithnumbers/obj/x86/Debug/textwithnumbers.exe.mdb

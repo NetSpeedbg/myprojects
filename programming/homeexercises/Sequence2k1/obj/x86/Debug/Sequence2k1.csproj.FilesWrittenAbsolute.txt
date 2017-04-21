@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/programming/homeexercises/Sequence2k1/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/programming/homeexercises/Sequence2k1/bin/Debug/Sequence2k1.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/programming/homeexercises/Sequence2k1/bin/Debug/Sequence2k1.exe
+/home/plamenpc/Downloads/hempforgosho/programming/homeexercises/Sequence2k1/obj/x86/Debug/Sequence2k1.exe
+/home/plamenpc/Downloads/hempforgosho/programming/homeexercises/Sequence2k1/obj/x86/Debug/Sequence2k1.exe.mdb

@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/programming/DrawingFigureswithLoops/test/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/programming/DrawingFigureswithLoops/test/bin/Debug/test.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/programming/DrawingFigureswithLoops/test/bin/Debug/test.exe
+/home/plamenpc/Downloads/hempforgosho/programming/DrawingFigureswithLoops/test/obj/x86/Debug/test.exe
+/home/plamenpc/Downloads/hempforgosho/programming/DrawingFigureswithLoops/test/obj/x86/Debug/test.exe.mdb

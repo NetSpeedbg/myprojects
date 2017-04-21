@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/secondday/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/secondday/bin/Release/secondday.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/secondday/bin/Release/secondday.exe
+/home/plamenpc/Downloads/hempforgosho/secondday/obj/x86/Release/secondday.exe
+/home/plamenpc/Downloads/hempforgosho/secondday/obj/x86/Release/secondday.exe.mdb

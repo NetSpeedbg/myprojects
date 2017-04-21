@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/truetest/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/truetest/bin/Debug/truetest.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/truetest/bin/Debug/truetest.exe
+/home/plamenpc/Downloads/hempforgosho/truetest/obj/x86/Debug/truetest.exe
+/home/plamenpc/Downloads/hempforgosho/truetest/obj/x86/Debug/truetest.exe.mdb

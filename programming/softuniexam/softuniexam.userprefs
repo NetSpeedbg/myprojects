@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="finalexam4lections/finalexam4lections.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="finalexam6magicnumber/Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="35" Column="2" />
+      <File FileName="humanhours/Program.cs" Line="7" Column="28" />
+      <File FileName="rentacar/Program.cs" Line="67" Column="5" />
+      <File FileName="finalexam1/Program.cs" Line="36" Column="45" />
+      <File FileName="finalexamchashi2/Program.cs" Line="27" Column="39" />
+      <File FileName="finalexamvacantion3/Program.cs" Line="19" Column="24" />
+      <File FileName="finalexam4lections/Program.cs" Line="13" Column="3" />
+      <File FileName="finalexam6magicnumber/Program.cs" Line="24" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

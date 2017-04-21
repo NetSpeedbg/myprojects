@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numbersonetoN", "numbersonetoN.csproj", "{EC222FAA-8D2B-48A1-BAA5-32FA4826EE67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersNto1", "NumbersNto1\NumbersNto1.csproj", "{466C498D-BBBE-4E0C-8F81-4F0C3678E377}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowersofTwo", "PowersofTwo\PowersofTwo.csproj", "{DC627F29-D70A-45E9-9172-C7060BDA2BC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenPowersof2", "EvenPowersof2\EvenPowersof2.csproj", "{9EDE14DE-C884-4C5C-848D-7ACE618B7C58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sequence2k1", "Sequence2k1\Sequence2k1.csproj", "{1A0B8F39-70A2-41F2-8F69-08C775D2A7A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numberofrange", "numberofrange\numberofrange.csproj", "{38354A4E-372A-4A28-B595-F1C468C9A54D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A0B8F39-70A2-41F2-8F69-08C775D2A7A3}.Debug|x86.ActiveCfg = Debug|x86
+		{1A0B8F39-70A2-41F2-8F69-08C775D2A7A3}.Debug|x86.Build.0 = Debug|x86
+		{1A0B8F39-70A2-41F2-8F69-08C775D2A7A3}.Release|x86.ActiveCfg = Release|x86
+		{1A0B8F39-70A2-41F2-8F69-08C775D2A7A3}.Release|x86.Build.0 = Release|x86
+		{38354A4E-372A-4A28-B595-F1C468C9A54D}.Debug|x86.ActiveCfg = Debug|x86
+		{38354A4E-372A-4A28-B595-F1C468C9A54D}.Debug|x86.Build.0 = Debug|x86
+		{38354A4E-372A-4A28-B595-F1C468C9A54D}.Release|x86.ActiveCfg = Release|x86
+		{38354A4E-372A-4A28-B595-F1C468C9A54D}.Release|x86.Build.0 = Release|x86
+		{466C498D-BBBE-4E0C-8F81-4F0C3678E377}.Debug|x86.ActiveCfg = Debug|x86
+		{466C498D-BBBE-4E0C-8F81-4F0C3678E377}.Debug|x86.Build.0 = Debug|x86
+		{466C498D-BBBE-4E0C-8F81-4F0C3678E377}.Release|x86.ActiveCfg = Release|x86
+		{466C498D-BBBE-4E0C-8F81-4F0C3678E377}.Release|x86.Build.0 = Release|x86
+		{9EDE14DE-C884-4C5C-848D-7ACE618B7C58}.Debug|x86.ActiveCfg = Debug|x86
+		{9EDE14DE-C884-4C5C-848D-7ACE618B7C58}.Debug|x86.Build.0 = Debug|x86
+		{9EDE14DE-C884-4C5C-848D-7ACE618B7C58}.Release|x86.ActiveCfg = Release|x86
+		{9EDE14DE-C884-4C5C-848D-7ACE618B7C58}.Release|x86.Build.0 = Release|x86
+		{DC627F29-D70A-45E9-9172-C7060BDA2BC1}.Debug|x86.ActiveCfg = Debug|x86
+		{DC627F29-D70A-45E9-9172-C7060BDA2BC1}.Debug|x86.Build.0 = Debug|x86
+		{DC627F29-D70A-45E9-9172-C7060BDA2BC1}.Release|x86.ActiveCfg = Release|x86
+		{DC627F29-D70A-45E9-9172-C7060BDA2BC1}.Release|x86.Build.0 = Release|x86
+		{EC222FAA-8D2B-48A1-BAA5-32FA4826EE67}.Debug|x86.ActiveCfg = Debug|x86
+		{EC222FAA-8D2B-48A1-BAA5-32FA4826EE67}.Debug|x86.Build.0 = Debug|x86
+		{EC222FAA-8D2B-48A1-BAA5-32FA4826EE67}.Release|x86.ActiveCfg = Release|x86
+		{EC222FAA-8D2B-48A1-BAA5-32FA4826EE67}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/programming/homeexercises/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/programming/homeexercises/bin/Debug/homeexercises.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/programming/homeexercises/bin/Debug/homeexercises.exe
+/home/plamenpc/Downloads/hempforgosho/programming/homeexercises/obj/x86/Debug/homeexercises.exe
+/home/plamenpc/Downloads/hempforgosho/programming/homeexercises/obj/x86/Debug/homeexercises.exe.mdb

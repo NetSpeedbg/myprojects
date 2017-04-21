@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/areaperimeter/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/areaperimeter/bin/Debug/areaperimeter.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/areaperimeter/bin/Debug/areaperimeter.exe
+/home/plamenpc/Downloads/hempforgosho/areaperimeter/obj/x86/Debug/areaperimeter.exe
+/home/plamenpc/Downloads/hempforgosho/areaperimeter/obj/x86/Debug/areaperimeter.exe.mdb

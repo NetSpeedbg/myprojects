@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/logicalor/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/logicalor/bin/Release/logicalor.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/logicalor/bin/Release/logicalor.exe
+/home/plamenpc/Downloads/hempforgosho/logicalor/obj/x86/Release/logicalor.exe
+/home/plamenpc/Downloads/hempforgosho/logicalor/obj/x86/Release/logicalor.exe.mdb

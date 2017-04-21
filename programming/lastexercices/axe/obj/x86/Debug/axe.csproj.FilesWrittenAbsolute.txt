@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/programming/lastexercices/axe/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/programming/lastexercices/axe/bin/Debug/axe.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/programming/lastexercices/axe/bin/Debug/axe.exe
+/home/plamenpc/Downloads/hempforgosho/programming/lastexercices/axe/obj/x86/Debug/axe.exe
+/home/plamenpc/Downloads/hempforgosho/programming/lastexercices/axe/obj/x86/Debug/axe.exe.mdb

@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/programming/softuniexam/rentacar/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/programming/softuniexam/rentacar/bin/Debug/rentacar.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/programming/softuniexam/rentacar/bin/Debug/rentacar.exe
+/home/plamenpc/Downloads/hempforgosho/programming/softuniexam/rentacar/obj/x86/Debug/rentacar.exe
+/home/plamenpc/Downloads/hempforgosho/programming/softuniexam/rentacar/obj/x86/Debug/rentacar.exe.mdb

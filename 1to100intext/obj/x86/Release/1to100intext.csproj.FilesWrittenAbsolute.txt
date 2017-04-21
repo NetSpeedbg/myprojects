@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/1to100intext/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/1to100intext/bin/Release/1to100intext.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/1to100intext/bin/Release/1to100intext.exe
+/home/plamenpc/Downloads/hempforgosho/1to100intext/obj/x86/Release/1to100intext.exe
+/home/plamenpc/Downloads/hempforgosho/1to100intext/obj/x86/Release/1to100intext.exe.mdb

@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/programming/lastexercices/twoagain/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/programming/lastexercices/twoagain/bin/Debug/twoagain.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/programming/lastexercices/twoagain/bin/Debug/twoagain.exe
+/home/plamenpc/Downloads/hempforgosho/programming/lastexercices/twoagain/obj/x86/Debug/twoagain.exe
+/home/plamenpc/Downloads/hempforgosho/programming/lastexercices/twoagain/obj/x86/Debug/twoagain.exe.mdb

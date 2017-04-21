@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/comparations/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/comparations/bin/Debug/comparations.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/comparations/bin/Debug/comparations.exe
+/home/plamenpc/Downloads/hempforgosho/comparations/obj/x86/Debug/comparations.exe
+/home/plamenpc/Downloads/hempforgosho/comparations/obj/x86/Debug/comparations.exe.mdb

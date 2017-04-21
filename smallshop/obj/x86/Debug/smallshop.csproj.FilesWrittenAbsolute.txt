@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/smallshop/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/smallshop/bin/Debug/smallshop.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/smallshop/bin/Debug/smallshop.exe
+/home/plamenpc/Downloads/hempforgosho/smallshop/obj/x86/Debug/smallshop.exe
+/home/plamenpc/Downloads/hempforgosho/smallshop/obj/x86/Debug/smallshop.exe.mdb

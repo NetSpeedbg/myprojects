@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/programming/7.repeetloops/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/programming/7.repeetloops/bin/Debug/7.repeetloops.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/programming/7.repeetloops/bin/Debug/7.repeetloops.exe
+/home/plamenpc/Downloads/hempforgosho/programming/7.repeetloops/obj/x86/Debug/7.repeetloops.exe
+/home/plamenpc/Downloads/hempforgosho/programming/7.repeetloops/obj/x86/Debug/7.repeetloops.exe.mdb

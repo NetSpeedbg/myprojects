@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/Number0-100toText/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/Number0-100toText/bin/Release/Number0-100toText.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/Number0-100toText/bin/Release/Number0-100toText.exe
+/home/plamenpc/Downloads/hempforgosho/Number0-100toText/obj/x86/Release/Number0-100toText.exe
+/home/plamenpc/Downloads/hempforgosho/Number0-100toText/obj/x86/Release/Number0-100toText.exe.mdb

@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/programming/7.repeetloops/pesho2/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/programming/7.repeetloops/pesho2/bin/Debug/pesho2.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/programming/7.repeetloops/pesho2/bin/Debug/pesho2.exe
+/home/plamenpc/Downloads/hempforgosho/programming/7.repeetloops/pesho2/obj/x86/Debug/pesho2.exe
+/home/plamenpc/Downloads/hempforgosho/programming/7.repeetloops/pesho2/obj/x86/Debug/pesho2.exe.mdb

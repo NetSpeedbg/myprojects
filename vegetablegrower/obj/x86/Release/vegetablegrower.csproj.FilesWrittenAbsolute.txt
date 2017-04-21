@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/vegetablegrower/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/vegetablegrower/bin/Release/vegetablegrower.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/vegetablegrower/bin/Release/vegetablegrower.exe
+/home/plamenpc/Downloads/hempforgosho/vegetablegrower/obj/x86/Release/vegetablegrower.exe
+/home/plamenpc/Downloads/hempforgosho/vegetablegrower/obj/x86/Release/vegetablegrower.exe.mdb

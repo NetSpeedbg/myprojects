@@ -1,0 +1,2 @@
+/home/plamenpc/Downloads/hempforgosho/programming/petrovproject/thepetrovproject/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/programming/petrovproject/thepetrovproject/bin/Debug/Eto.dll

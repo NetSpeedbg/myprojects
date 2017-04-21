@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/programming/7.repeetloops/fibonachinumbers/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/programming/7.repeetloops/fibonachinumbers/bin/Debug/fibonachinumbers.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/programming/7.repeetloops/fibonachinumbers/bin/Debug/fibonachinumbers.exe
+/home/plamenpc/Downloads/hempforgosho/programming/7.repeetloops/fibonachinumbers/obj/x86/Debug/fibonachinumbers.exe
+/home/plamenpc/Downloads/hempforgosho/programming/7.repeetloops/fibonachinumbers/obj/x86/Debug/fibonachinumbers.exe.mdb

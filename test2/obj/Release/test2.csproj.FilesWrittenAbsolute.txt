@@ -1,0 +1,2 @@
+/home/plamenpc/Downloads/hempforgosho/test2/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/test2/bin/Release/Eto.dll

@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/currancyconverter/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/currancyconverter/bin/Release/currancyconverter.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/currancyconverter/bin/Release/currancyconverter.exe
+/home/plamenpc/Downloads/hempforgosho/currancyconverter/obj/x86/Release/currancyconverter.exe
+/home/plamenpc/Downloads/hempforgosho/currancyconverter/obj/x86/Release/currancyconverter.exe.mdb

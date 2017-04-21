@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/biggernumber/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/biggernumber/bin/Debug/biggernumber.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/biggernumber/bin/Debug/biggernumber.exe
+/home/plamenpc/Downloads/hempforgosho/biggernumber/obj/x86/Debug/biggernumber.exe
+/home/plamenpc/Downloads/hempforgosho/biggernumber/obj/x86/Debug/biggernumber.exe.mdb

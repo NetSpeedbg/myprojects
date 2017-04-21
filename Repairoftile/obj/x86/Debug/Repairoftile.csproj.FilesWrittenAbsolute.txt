@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/Repairoftile/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/Repairoftile/bin/Debug/Repairoftile.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/Repairoftile/bin/Debug/Repairoftile.exe
+/home/plamenpc/Downloads/hempforgosho/Repairoftile/obj/x86/Debug/Repairoftile.exe
+/home/plamenpc/Downloads/hempforgosho/Repairoftile/obj/x86/Debug/Repairoftile.exe.mdb

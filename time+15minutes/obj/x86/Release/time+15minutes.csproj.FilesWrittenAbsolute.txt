@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/time+15minutes/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/time+15minutes/bin/Release/time+15minutes.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/time+15minutes/bin/Release/time+15minutes.exe
+/home/plamenpc/Downloads/hempforgosho/time+15minutes/obj/x86/Release/time+15minutes.exe
+/home/plamenpc/Downloads/hempforgosho/time+15minutes/obj/x86/Release/time+15minutes.exe.mdb

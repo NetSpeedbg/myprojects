@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/greatingsbyname/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/greatingsbyname/bin/Release/greatingsbyname.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/greatingsbyname/bin/Release/greatingsbyname.exe
+/home/plamenpc/Downloads/hempforgosho/greatingsbyname/obj/x86/Release/greatingsbyname.exe
+/home/plamenpc/Downloads/hempforgosho/greatingsbyname/obj/x86/Release/greatingsbyname.exe.mdb

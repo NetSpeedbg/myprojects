@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/equalellement/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/equalellement/bin/Release/equalellement.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/equalellement/bin/Release/equalellement.exe
+/home/plamenpc/Downloads/hempforgosho/equalellement/obj/x86/Release/equalellement.exe
+/home/plamenpc/Downloads/hempforgosho/equalellement/obj/x86/Release/equalellement.exe.mdb

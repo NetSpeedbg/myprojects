@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/programming/softuniexam/humanhours/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/programming/softuniexam/humanhours/bin/Debug/humanhours.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/programming/softuniexam/humanhours/bin/Debug/humanhours.exe
+/home/plamenpc/Downloads/hempforgosho/programming/softuniexam/humanhours/obj/x86/Debug/humanhours.exe
+/home/plamenpc/Downloads/hempforgosho/programming/softuniexam/humanhours/obj/x86/Debug/humanhours.exe.mdb

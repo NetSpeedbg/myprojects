@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/programming/lastexercices/selftestone/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/programming/lastexercices/selftestone/bin/Debug/selftestone.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/programming/lastexercices/selftestone/bin/Debug/selftestone.exe
+/home/plamenpc/Downloads/hempforgosho/programming/lastexercices/selftestone/obj/x86/Debug/selftestone.exe
+/home/plamenpc/Downloads/hempforgosho/programming/lastexercices/selftestone/obj/x86/Debug/selftestone.exe.mdb

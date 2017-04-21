@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="numberofrange/numberofrange.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="numberofrange/Program.cs">
+    <Files>
+      <File FileName="Sequence2k1/Program.cs" Line="25" Column="2" />
+      <File FileName="numberofrange/Program.cs" Line="25" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

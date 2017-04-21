@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/sumingshar/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/sumingshar/bin/Release/sumingshar.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/sumingshar/bin/Release/sumingshar.exe
+/home/plamenpc/Downloads/hempforgosho/sumingshar/obj/x86/Release/sumingshar.exe
+/home/plamenpc/Downloads/hempforgosho/sumingshar/obj/x86/Release/sumingshar.exe.mdb

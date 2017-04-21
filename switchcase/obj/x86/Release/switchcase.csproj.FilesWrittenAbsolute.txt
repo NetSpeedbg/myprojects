@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/switchcase/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/switchcase/bin/Release/switchcase.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/switchcase/bin/Release/switchcase.exe
+/home/plamenpc/Downloads/hempforgosho/switchcase/obj/x86/Release/switchcase.exe
+/home/plamenpc/Downloads/hempforgosho/switchcase/obj/x86/Release/switchcase.exe.mdb

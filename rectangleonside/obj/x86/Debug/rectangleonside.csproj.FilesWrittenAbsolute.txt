@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/rectangleonside/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/rectangleonside/bin/Debug/rectangleonside.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/rectangleonside/bin/Debug/rectangleonside.exe
+/home/plamenpc/Downloads/hempforgosho/rectangleonside/obj/x86/Debug/rectangleonside.exe
+/home/plamenpc/Downloads/hempforgosho/rectangleonside/obj/x86/Debug/rectangleonside.exe.mdb

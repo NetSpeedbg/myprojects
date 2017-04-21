@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/programming/softuniexam/finalexamchashi2/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/programming/softuniexam/finalexamchashi2/bin/Debug/finalexamchashi2.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/programming/softuniexam/finalexamchashi2/bin/Debug/finalexamchashi2.exe
+/home/plamenpc/Downloads/hempforgosho/programming/softuniexam/finalexamchashi2/obj/x86/Debug/finalexamchashi2.exe
+/home/plamenpc/Downloads/hempforgosho/programming/softuniexam/finalexamchashi2/obj/x86/Debug/finalexamchashi2.exe.mdb

@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/programming/lastexercices/taskfive/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/programming/lastexercices/taskfive/bin/Debug/taskfive.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/programming/lastexercices/taskfive/bin/Debug/taskfive.exe
+/home/plamenpc/Downloads/hempforgosho/programming/lastexercices/taskfive/obj/x86/Debug/taskfive.exe
+/home/plamenpc/Downloads/hempforgosho/programming/lastexercices/taskfive/obj/x86/Debug/taskfive.exe.mdb

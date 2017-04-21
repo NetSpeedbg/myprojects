@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/programming/DrawingFigureswithLoops/SquareofStars/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/programming/DrawingFigureswithLoops/SquareofStars/bin/Debug/SquareofStars.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/programming/DrawingFigureswithLoops/SquareofStars/bin/Debug/SquareofStars.exe
+/home/plamenpc/Downloads/hempforgosho/programming/DrawingFigureswithLoops/SquareofStars/obj/x86/Debug/SquareofStars.exe
+/home/plamenpc/Downloads/hempforgosho/programming/DrawingFigureswithLoops/SquareofStars/obj/x86/Debug/SquareofStars.exe.mdb

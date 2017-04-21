@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/boy/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/boy/bin/Release/boy.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/boy/bin/Release/boy.exe
+/home/plamenpc/Downloads/hempforgosho/boy/obj/x86/Release/boy.exe
+/home/plamenpc/Downloads/hempforgosho/boy/obj/x86/Release/boy.exe.mdb

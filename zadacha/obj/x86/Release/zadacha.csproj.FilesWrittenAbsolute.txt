@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/zadacha/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/zadacha/bin/Release/zadacha.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/zadacha/bin/Release/zadacha.exe
+/home/plamenpc/Downloads/hempforgosho/zadacha/obj/x86/Release/zadacha.exe
+/home/plamenpc/Downloads/hempforgosho/zadacha/obj/x86/Release/zadacha.exe.mdb

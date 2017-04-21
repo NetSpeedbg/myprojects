@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/programming/lastexercices/tasksix/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/programming/lastexercices/tasksix/bin/Debug/tasksix.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/programming/lastexercices/tasksix/bin/Debug/tasksix.exe
+/home/plamenpc/Downloads/hempforgosho/programming/lastexercices/tasksix/obj/x86/Debug/tasksix.exe
+/home/plamenpc/Downloads/hempforgosho/programming/lastexercices/tasksix/obj/x86/Debug/tasksix.exe.mdb

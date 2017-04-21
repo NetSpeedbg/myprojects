@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/programming/7.repeetloops/primeornotprime/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/programming/7.repeetloops/primeornotprime/bin/Debug/primeornotprime.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/programming/7.repeetloops/primeornotprime/bin/Debug/primeornotprime.exe
+/home/plamenpc/Downloads/hempforgosho/programming/7.repeetloops/primeornotprime/obj/x86/Debug/primeornotprime.exe
+/home/plamenpc/Downloads/hempforgosho/programming/7.repeetloops/primeornotprime/obj/x86/Debug/primeornotprime.exe.mdb

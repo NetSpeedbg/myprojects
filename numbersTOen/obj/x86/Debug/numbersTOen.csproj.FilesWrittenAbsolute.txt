@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/numbersTOen/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/numbersTOen/bin/Debug/numbersTOen.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/numbersTOen/bin/Debug/numbersTOen.exe
+/home/plamenpc/Downloads/hempforgosho/numbersTOen/obj/x86/Debug/numbersTOen.exe
+/home/plamenpc/Downloads/hempforgosho/numbersTOen/obj/x86/Debug/numbersTOen.exe.mdb

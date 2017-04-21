@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "doghousepaint", "doghousepaint.csproj", "{1F8177C4-D75B-47DD-8485-E8EA3BAA2EDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "humanhours", "humanhours\humanhours.csproj", "{01B08481-5ED4-4423-9BAC-FD013C1CAA65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rentacar", "rentacar\rentacar.csproj", "{22BC4AB9-6633-4CAD-BD4C-55814A9505A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "finalexam1", "finalexam1\finalexam1.csproj", "{89ED80ED-3C4F-4800-853F-2A47D955D4A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "finalexamchashi2", "finalexamchashi2\finalexamchashi2.csproj", "{61E511C5-4368-41A0-8779-3342F95B406A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "finalexamvacantion3", "finalexamvacantion3\finalexamvacantion3.csproj", "{60473560-F6E5-4F19-B9CB-93A65A6B58C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "finalexam4lections", "finalexam4lections\finalexam4lections.csproj", "{9E1098FC-EC28-4C65-8473-32AB96322EAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "finalexam6magicnumber", "finalexam6magicnumber\finalexam6magicnumber.csproj", "{29C3DCA4-15BB-4DCC-90BF-E02B32145D26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01B08481-5ED4-4423-9BAC-FD013C1CAA65}.Debug|x86.ActiveCfg = Debug|x86
+		{01B08481-5ED4-4423-9BAC-FD013C1CAA65}.Debug|x86.Build.0 = Debug|x86
+		{01B08481-5ED4-4423-9BAC-FD013C1CAA65}.Release|x86.ActiveCfg = Release|x86
+		{01B08481-5ED4-4423-9BAC-FD013C1CAA65}.Release|x86.Build.0 = Release|x86
+		{1F8177C4-D75B-47DD-8485-E8EA3BAA2EDD}.Debug|x86.ActiveCfg = Debug|x86
+		{1F8177C4-D75B-47DD-8485-E8EA3BAA2EDD}.Debug|x86.Build.0 = Debug|x86
+		{1F8177C4-D75B-47DD-8485-E8EA3BAA2EDD}.Release|x86.ActiveCfg = Release|x86
+		{1F8177C4-D75B-47DD-8485-E8EA3BAA2EDD}.Release|x86.Build.0 = Release|x86
+		{22BC4AB9-6633-4CAD-BD4C-55814A9505A1}.Debug|x86.ActiveCfg = Debug|x86
+		{22BC4AB9-6633-4CAD-BD4C-55814A9505A1}.Debug|x86.Build.0 = Debug|x86
+		{22BC4AB9-6633-4CAD-BD4C-55814A9505A1}.Release|x86.ActiveCfg = Release|x86
+		{22BC4AB9-6633-4CAD-BD4C-55814A9505A1}.Release|x86.Build.0 = Release|x86
+		{29C3DCA4-15BB-4DCC-90BF-E02B32145D26}.Debug|x86.ActiveCfg = Debug|x86
+		{29C3DCA4-15BB-4DCC-90BF-E02B32145D26}.Debug|x86.Build.0 = Debug|x86
+		{29C3DCA4-15BB-4DCC-90BF-E02B32145D26}.Release|x86.ActiveCfg = Release|x86
+		{29C3DCA4-15BB-4DCC-90BF-E02B32145D26}.Release|x86.Build.0 = Release|x86
+		{60473560-F6E5-4F19-B9CB-93A65A6B58C2}.Debug|x86.ActiveCfg = Debug|x86
+		{60473560-F6E5-4F19-B9CB-93A65A6B58C2}.Debug|x86.Build.0 = Debug|x86
+		{60473560-F6E5-4F19-B9CB-93A65A6B58C2}.Release|x86.ActiveCfg = Release|x86
+		{60473560-F6E5-4F19-B9CB-93A65A6B58C2}.Release|x86.Build.0 = Release|x86
+		{61E511C5-4368-41A0-8779-3342F95B406A}.Debug|x86.ActiveCfg = Debug|x86
+		{61E511C5-4368-41A0-8779-3342F95B406A}.Debug|x86.Build.0 = Debug|x86
+		{61E511C5-4368-41A0-8779-3342F95B406A}.Release|x86.ActiveCfg = Release|x86
+		{61E511C5-4368-41A0-8779-3342F95B406A}.Release|x86.Build.0 = Release|x86
+		{89ED80ED-3C4F-4800-853F-2A47D955D4A8}.Debug|x86.ActiveCfg = Debug|x86
+		{89ED80ED-3C4F-4800-853F-2A47D955D4A8}.Debug|x86.Build.0 = Debug|x86
+		{89ED80ED-3C4F-4800-853F-2A47D955D4A8}.Release|x86.ActiveCfg = Release|x86
+		{89ED80ED-3C4F-4800-853F-2A47D955D4A8}.Release|x86.Build.0 = Release|x86
+		{9E1098FC-EC28-4C65-8473-32AB96322EAC}.Debug|x86.ActiveCfg = Debug|x86
+		{9E1098FC-EC28-4C65-8473-32AB96322EAC}.Debug|x86.Build.0 = Debug|x86
+		{9E1098FC-EC28-4C65-8473-32AB96322EAC}.Release|x86.ActiveCfg = Release|x86
+		{9E1098FC-EC28-4C65-8473-32AB96322EAC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

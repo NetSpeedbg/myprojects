@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/licekvadrat/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/licekvadrat/bin/Debug/licekvadrat.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/licekvadrat/bin/Debug/licekvadrat.exe
+/home/plamenpc/Downloads/hempforgosho/licekvadrat/obj/x86/Debug/licekvadrat.exe
+/home/plamenpc/Downloads/hempforgosho/licekvadrat/obj/x86/Debug/licekvadrat.exe.mdb

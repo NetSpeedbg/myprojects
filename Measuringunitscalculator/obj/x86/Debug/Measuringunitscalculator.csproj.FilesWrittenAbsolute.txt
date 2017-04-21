@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/Measuringunitscalculator/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/Measuringunitscalculator/bin/Debug/Measuringunitscalculator.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/Measuringunitscalculator/bin/Debug/Measuringunitscalculator.exe
+/home/plamenpc/Downloads/hempforgosho/Measuringunitscalculator/obj/x86/Debug/Measuringunitscalculator.exe
+/home/plamenpc/Downloads/hempforgosho/Measuringunitscalculator/obj/x86/Debug/Measuringunitscalculator.exe.mdb

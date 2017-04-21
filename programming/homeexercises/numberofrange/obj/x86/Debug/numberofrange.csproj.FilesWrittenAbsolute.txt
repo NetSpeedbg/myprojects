@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/programming/homeexercises/numberofrange/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/programming/homeexercises/numberofrange/bin/Debug/numberofrange.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/programming/homeexercises/numberofrange/bin/Debug/numberofrange.exe
+/home/plamenpc/Downloads/hempforgosho/programming/homeexercises/numberofrange/obj/x86/Debug/numberofrange.exe
+/home/plamenpc/Downloads/hempforgosho/programming/homeexercises/numberofrange/obj/x86/Debug/numberofrange.exe.mdb

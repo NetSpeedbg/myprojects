@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/Numberfrom100to200/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/Numberfrom100to200/bin/Debug/Numberfrom100to200.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/Numberfrom100to200/bin/Debug/Numberfrom100to200.exe
+/home/plamenpc/Downloads/hempforgosho/Numberfrom100to200/obj/x86/Debug/Numberfrom100to200.exe
+/home/plamenpc/Downloads/hempforgosho/Numberfrom100to200/obj/x86/Debug/Numberfrom100to200.exe.mdb

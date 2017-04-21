@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/lettersfor/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/lettersfor/bin/Release/lettersfor.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/lettersfor/bin/Release/lettersfor.exe
+/home/plamenpc/Downloads/hempforgosho/lettersfor/obj/x86/Release/lettersfor.exe
+/home/plamenpc/Downloads/hempforgosho/lettersfor/obj/x86/Release/lettersfor.exe.mdb

@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/leftandrightsum/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/leftandrightsum/bin/Release/leftandrightsum.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/leftandrightsum/bin/Release/leftandrightsum.exe
+/home/plamenpc/Downloads/hempforgosho/leftandrightsum/obj/x86/Release/leftandrightsum.exe
+/home/plamenpc/Downloads/hempforgosho/leftandrightsum/obj/x86/Release/leftandrightsum.exe.mdb

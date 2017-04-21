@@ -1,0 +1,5 @@
+/home/plamenpc/Downloads/hempforgosho/secondstominutes/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/plamenpc/Downloads/hempforgosho/secondstominutes/bin/Release/secondstominutes.exe.mdb
+/home/plamenpc/Downloads/hempforgosho/secondstominutes/bin/Release/secondstominutes.exe
+/home/plamenpc/Downloads/hempforgosho/secondstominutes/obj/x86/Release/secondstominutes.exe
+/home/plamenpc/Downloads/hempforgosho/secondstominutes/obj/x86/Release/secondstominutes.exe.mdb
